@@ -1,3 +1,4 @@
+//Vincent Tshegofatso Matlou and Oscar Mahlangu
 #ifndef STOPWATCH_H
 #define STOPWATCH_H
 
