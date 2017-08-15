@@ -7,8 +7,8 @@ using namespace std;
 int main()
 {
     //My initial is O
-	Screen myScreen{6,6};
-	myScreen.clear(' ');
+    Screen myScreen{6,6};
+    myScreen.clear(' ');
     myScreen.move(1,1);
     myScreen.set('*');
     myScreen.move(2,1);
