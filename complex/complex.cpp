@@ -1,3 +1,4 @@
+//Vincent Tshegofatso Matlou and Oscar Mahlangu
 #include <iostream>
 #include <complex>
 #include <cmath>
