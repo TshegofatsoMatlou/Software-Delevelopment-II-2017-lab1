@@ -8,8 +8,8 @@ using namespace std;
 int main()
 {
     //My initial is O
-	Screen myScreen{6,6};
-	myScreen.clear(' ');
+    Screen myScreen{6,6};
+    myScreen.clear(' ');
     myScreen.move(1,1);
     myScreen.set('*');
     myScreen.move(2,1);
@@ -76,7 +76,6 @@ int main()
 //	myScreen.set("BIG");
 //	myScreen.move(8,5);
 //	myScreen.set("SCREEN");
-
 
 	return 0;
 }

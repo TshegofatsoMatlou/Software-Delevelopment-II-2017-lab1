@@ -31,7 +31,6 @@ void Screen::back()
 		end();
 	else
 		--_cursor;
-
 	return;
 }
 

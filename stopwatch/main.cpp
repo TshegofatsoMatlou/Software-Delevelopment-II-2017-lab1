@@ -11,6 +11,7 @@ double add(double a, double b){
 int main(int argc, char **argv)
 {
 	StopWatch stopwatch;
+	
 	//Getting the start time just after creating the class object
 	stopwatch.startTime(stopwatch.getProcessTime());
 

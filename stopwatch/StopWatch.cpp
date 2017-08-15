@@ -11,12 +11,15 @@ double StopWatch::getProcessTime()
 	return static_cast<double>(time)/CLOCKS_PER_SEC;
 }
 //We did not add additional functions since the getProcessTime() function does all that is required except that it is not placed in a class
+
 void StopWatch::startTime(double initTime){
 	_startTime = initTime;
 }
+
 void StopWatch::endTime(double finalTime){
 	_endTime = finalTime;
 }
+
 double StopWatch::getRunTime(){
 	return (_endTime - _startTime);
 }

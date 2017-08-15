@@ -4,6 +4,7 @@
 
 #include <string>
 #include <iostream>
+
 using namespace std;
 
 // The unsigned integral type which is used to store the number of
