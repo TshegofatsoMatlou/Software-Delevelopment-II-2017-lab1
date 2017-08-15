@@ -41,5 +41,5 @@ int main(){
 		cout << "You lose" << endl; //Outputs message in inverted commas if above condition (line 38) is met
 	}
 	
-	//cout << random_number << endl;
+	return 0;
 }
