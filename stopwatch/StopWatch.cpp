@@ -1,3 +1,4 @@
+//Vincent Tshegofatso Matlou and Oscar Mahlangu
 #include "StopWatch.h"
 #include <ctime>
 using namespace std;
