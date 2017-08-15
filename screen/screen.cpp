@@ -1,3 +1,4 @@
+//Vincent Tshegofatso Matlou and Oscar Mahlangu
 #include "screen.h"
 
 // 0 represents the top-left screen element
