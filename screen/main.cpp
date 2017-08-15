@@ -76,7 +76,6 @@ int main()
 //	myScreen.move(8,5);
 //	myScreen.set("SCREEN");
 
-
 	return 0;
 }
 
