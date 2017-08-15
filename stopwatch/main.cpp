@@ -1,5 +1,5 @@
+//Vincent Tshegofatso Matlou and Oscar Mahlangu
 #include <iostream>
-//#include "StopWatch.cpp"
 #include "StopWatch.h"
 
 using namespace std;
