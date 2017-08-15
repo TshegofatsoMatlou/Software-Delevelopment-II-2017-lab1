@@ -1,3 +1,4 @@
+//Vincent Tshegofatso Matlou and Oscar Mahlangu
 // Exercising the Screen class
 #include "screen.h"
 #include <iostream>
